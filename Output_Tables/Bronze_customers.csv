@@ -1,0 +1,2 @@
+_id,address,customer_id,email,first_name,last_name,phone,registration_date
+"{""oid"":""6721ca3966b77e95a9b1be11""}","{""street"":""123 Elm Street"",""city"":""Springfield"",""state"":""IL"",""zip"":""62704""}",C123,jane.smith@example.com,Jane,Smith,555-1234,2020-05-10

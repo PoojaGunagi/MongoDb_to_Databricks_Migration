@@ -1,0 +1,3 @@
+total_sales,total_orders,average_order_value,total_quantity_sold,average_items_per_order,order_fulfillment_rate,average_shipping_time,product_id,total_revenue_by_product
+1003,1,1003,5,10,100,5,P001,501.5
+1003,1,1003,5,10,100,5,P002,501.5

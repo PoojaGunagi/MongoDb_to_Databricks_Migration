@@ -1,0 +1,2 @@
+_id,customer_id,items,order_date,order_id,shipping_date,status,total_amount
+"{""oid"":""6721c93f66b77e95a9b1be0f""}",C123,"[{""product_id"":""P001"",""quantity"":2,""unit_price"":50},{""product_id"":""P002"",""quantity"":3,""unit_price"":50.25}]",2023-08-15,O1001,2023-08-20,Shipped,250.75

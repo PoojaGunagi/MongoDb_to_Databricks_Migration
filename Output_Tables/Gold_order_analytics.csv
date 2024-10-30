@@ -1,0 +1,2 @@
+total_revenue,total_quantity_sold,average_order_value,average_quantity_per_order,total_orders,total_items_all_orders,average_fulfillment_time,status,shipment_status_count
+501.5,5,501.5,5,1,10,5,Shipped,2
